@@ -1,0 +1,15 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+
+body{
+    background-color: gray;
+}
+.cards_s{
+    margin-top: 15%;
+}
+.fondo_jumbotron{
+    background: #3a3a3a;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #f39aff, #ff8181);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4135eb, #37ec5e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
